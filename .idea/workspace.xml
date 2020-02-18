@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b286b230-4497-4401-a81b-a0f77fc904c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/酒馆" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/首饰店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/古董店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/客栈" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/当铺" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/文玩店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/武器店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/白货店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/百货店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/胭脂水粉" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/赌坊" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/酒馆" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/商户/首饰店" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/宫殿/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/森林/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/民宅/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/场景/地/黑夜场景/陵墓/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/快速查询表" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/食人系统/关联系统" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/古董店" beforeDir="false" afterPath="$PROJECT_DIR$/入室盗窃系统/关联系统" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/客栈" beforeDir="false" afterPath="$PROJECT_DIR$/入室盗窃系统/概述" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/当铺" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/古董店" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/文玩店" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/客栈" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/武器店" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/当铺" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/白货店" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/白货店" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/百货店" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/文玩店" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/胭脂水粉" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/武器店" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/赌坊" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/百货店" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/酒馆" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/胭脂水粉" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/商户/首饰店" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/商户/赌坊" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/宫殿/说明" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/宫殿/说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/森林/说明" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/森林/说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/民宅/说明" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/民宅/说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/场景/地/陵墓/说明" beforeDir="false" afterPath="$PROJECT_DIR$/场景/地/白天场景/陵墓/说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/食人系统/概述.txt" beforeDir="false" afterPath="$PROJECT_DIR$/食人系统/概述.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b286b230-4497-4401-a81b-a0f77fc904c1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,6 +15,7 @@
     <session id="1367678081">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -129,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state>
+              <caret line="168" column="53" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -256,15 +219,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540881659727</updated>
-      <workItem from="1540881661351" duration="6078000" />
+      <workItem from="1540881661351" duration="8108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6078000" />
+    <option name="totallyTimeSpent" value="8108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -339,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state>
+          <caret line="168" column="53" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="53" />
         </state>
       </provider>
     </entry>
